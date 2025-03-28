@@ -1,2 +1,3 @@
 Flask
 Flask-SQLAlchemy
+uvicorn==0.34.0  # (atau versi yang sesuai dengan project)
